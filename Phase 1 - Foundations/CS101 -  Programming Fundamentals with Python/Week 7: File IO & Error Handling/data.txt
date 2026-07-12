@@ -1,0 +1,10 @@
+apples 1.23
+pears 231.23
+guava 12.30
+bananas 4.50
+oranges 8.99
+grapes 15.00
+melons 22.50
+kiwis 9.15
+peaches 11.20
+plums 7.85   
