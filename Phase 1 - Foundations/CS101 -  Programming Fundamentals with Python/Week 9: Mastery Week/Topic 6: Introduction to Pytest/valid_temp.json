@@ -1,0 +1,18 @@
+{
+  "library_name": "Test Library",
+  "books": [
+    {
+      "id": "001",
+      "title": "Book One",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "id": "002",
+      "title": "Book Two",
+      "year": 2021,
+      "available": false
+    }
+  ],
+  "total_count": 2
+}
