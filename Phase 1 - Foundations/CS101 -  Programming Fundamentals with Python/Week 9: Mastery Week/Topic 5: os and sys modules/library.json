@@ -1,0 +1,30 @@
+{
+  "library_name": "City Central Library",
+  "books": [
+    {
+      "id": "001",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "genre": "Classic Fiction",
+      "available": true
+    },
+    {
+      "id": "002",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "year": 2008,
+      "genre": "Computer Science",
+      "available": false
+    },
+    {
+      "id": "003",
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "genre": "Dystopian",
+      "available": true
+    }
+  ],
+  "total_count": 3
+}   

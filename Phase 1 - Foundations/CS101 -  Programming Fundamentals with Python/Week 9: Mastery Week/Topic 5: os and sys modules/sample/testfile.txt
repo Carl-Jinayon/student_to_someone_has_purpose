@@ -1,0 +1,61 @@
+Exercise 1 (os.path):
+Write a function get_file_size(filename) that:
+
+Checks if the file exists.
+
+If it does, returns the file size in bytes using os.path.getsize().
+
+If it doesn't, returns None.
+
+Exercise 1 (os.path):
+Write a function get_file_size(filename) that:
+
+Checks if the file exists.
+
+If it does, returns the file size in bytes using os.path.getsize().
+
+If it doesn't, returns None.
+
+
+
+
+
+
+Exercise 1 (os.path):
+Write a function get_file_size(filename) that:
+
+Checks if the file exists.
+
+If it does, returns the file size in bytes using os.path.getsize().
+
+If it doesn't, returns None.Exercise 1 (os.path):
+Write a function get_file_size(filename) that:
+
+Checks if the file exists.
+
+If it does, returns the file size in bytes using os.path.getsize().
+
+If it doesn't, returns None.
+
+Exercise 1 (os.path):
+Write a function get_file_size(filename) that:
+
+Checks if the file exists.
+
+If it does, returns the file size in bytes using os.path.getsize().
+
+If it doesn't, returns None.
+
+Exercise 1 (os.path):
+Write a function get_file_size(filename) that:
+
+Checks if the file exists.
+
+If it does, returns the file size in bytes using os.path.getsize().
+
+If it doesn't, returns None.
+
+
+v
+
+
